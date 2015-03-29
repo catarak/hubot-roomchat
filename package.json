@@ -1,0 +1,32 @@
+{
+`  "name": "hubot-roomchat",
+  "version": "1.0.0",
+  "description": "A Hubot adapter for Roomchat",
+  "main": "src/roomchat.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "hubot": ">=2.0"
+  },
+  "devDependencies": {
+    "coffee-script": ">=1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:catarak/hubot-roomchat.git"
+  },
+  "keywords": [
+    "hubot",
+    "adapter",
+    "roomchat"
+  ],
+  "author": "Cassie Tarakajian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catarak/hubot-roomchat/issues"
+  },
+  "homepage": "https://github.com/catarak/hubot-roomchat"
+}
